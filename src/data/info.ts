@@ -16,12 +16,6 @@ export const info = {
 
   projects: [
     {
-      title: "Kemené Technology",
-      isFeatured: true,
-      thumbnail: "/assets/images/kemene.png",
-      liveUrl: "https://kemene.com/",
-    },
-    {
       title: "Dart Scope",
       isFeatured: true,
       thumbnail: "/assets/images/dart scope.png",
@@ -32,6 +26,12 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/part finder.png",
       liveUrl: "https://partfinder.app/",
+    },
+    {
+      title: "Kemené Technology",
+      isFeatured: true,
+      thumbnail: "/assets/images/kemene.png",
+      liveUrl: "https://kemene.com/",
     }
   ],
 };
